@@ -31,6 +31,14 @@ header {
 
 #navbar div {
     margin: 5px
+
+}
+
+#navbar a {
+
+    color: #869A1E;
+    text-decoration: none;
+
 }
 
 #tituloDestaque h2{
@@ -99,3 +107,7 @@ header {
     flex-wrap: wrap;  
     justify-content: space-between; 
     align-items:flex-start;
+}
+
+
+
