@@ -50,12 +50,12 @@ header {
     display: flex;  
     flex-wrap: wrap;  
     flex-direction: row;
-    justify-content: space-between;      
+    justify-content: space-between;
 }
 
 .produtoDestaque{
-
-    width: 260px;
+    max-width: 32%;
+    min-width: 260px;  
 }
 
 .produtoDestaque img{
